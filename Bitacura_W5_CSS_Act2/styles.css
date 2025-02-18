@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.red-box{
+    height: 50px;
+    background-color: red;
+}
+
+.blue-box{
+    height: 50px;
+    background-color: blue;
+}
